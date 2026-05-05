@@ -83,7 +83,7 @@ Built a real-time logistics intelligence platform using **React + Vite + Node.js
 
 A responsive web app that maps waste inputs to creative reuse ideas using JavaScript logic and a clean, mobile-friendly UI.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge)](https://your-trashmorph-live-link.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge)](https://trashmorph.netlify.app/)
 [![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/ananyadarna/trashmorph)
 
 ---
