@@ -73,8 +73,8 @@ Built a real-time logistics intelligence platform using **React + Vite + Node.js
 - 🤖 Gemini AI integration for smart rerouting suggestions
 - ☁️ Deployed on Vercel (frontend) & Render (backend)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge)](https://your-nexus-live-link.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/ananyadarna/nexus)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge)](https://nexus-yjtf.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/raziabegum705/nexus)
 
 ---
 
