@@ -119,7 +119,7 @@ A responsive web app that maps waste inputs to creative reuse ideas using JavaSc
 <img src="./assets/contributor.png" width="150" alt="GSSoC 2026 Contributor"/>
 <img src="./assets/open.png" width="150" alt="GSSoC 2026 Open Source Track"/>
 <img src="assets\Contributor_NSOC .png" width="150" alt="Tech Contributor - NSOC"/>
-<img src="assets\NSOC 1st badge.png" width="150" alt="Nexus Spring of Code Badge"/>
+<img src="/assets/NSOC 1st badge.png" width="150" alt="Nexus Spring of Code Badge"/>
 </div>
 
 ---
