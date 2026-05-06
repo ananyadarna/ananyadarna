@@ -113,6 +113,17 @@ A responsive web app that maps waste inputs to creative reuse ideas using JavaSc
 
 ---
 
+## 🏆 Open Source Badges
+ 
+<div align="center">
+<img src="./assets/contributor.png" width="150" alt="GSSoC 2026 Contributor"/>
+<img src="./assets/open.png" width="150" alt="GSSoC 2026 Open Source Track"/>
+<img src="assets\Contributor_NSOC .png" width="150" alt="Tech Contributor - NSOC"/>
+<img src="assets\NSOC 1st badge.png" width="150" alt="Nexus Spring of Code Badge"/>
+</div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ananyadarna&color=6C63FF&style=for-the-badge" alt="Profile views"/>
   <br/><br/>
