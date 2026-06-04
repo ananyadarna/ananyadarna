@@ -101,7 +101,7 @@ A responsive web app that maps waste inputs to creative reuse ideas using JavaSc
 
 <br/>
 
-**📈 Contribution Graph**
+## 📈 Contribution Graph
 
 [![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyadarna&theme=tokyo-night&hide_border=true)](https://github.com/ananyadarna)
 
