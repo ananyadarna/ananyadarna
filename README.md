@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ananya+Darna+%F0%9F%91%8B;Full-Stack+Web+Developer;MCA+Student+%40+Kakatiya+University;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ananya+Darna+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm an **MCA student** at Kakatiya University, Warangal, passionate about building full-stack web applications with clean UIs and smart backends. I love solving real-world problems through code — from AI-powered logistics platforms to creative upcycling tools.
+I'm an **MCA student** at Kakatiya University, Warangal, passionate about building full-stack web applications with clean UIs and smart backends. I love solving real-world problems through code 💡
 
 - 🎓 Pursuing **MCA** at Kakatiya University (2025–2027)
 - 💼 Hands-on with **React, Node.js, Firebase, and REST APIs**
@@ -99,7 +99,12 @@ A responsive web app that maps waste inputs to creative reuse ideas using JavaSc
 
 <img src="https://streak-stats.demolab.com?user=ananyadarna&theme=tokyonight&hide_border=true" height="160"/>
 
+<br/>
 </div>
+
+## 📈 Contribution Graph
+
+[![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyadarna&theme=tokyo-night&hide_border=true)](https://github.com/ananyadarna)
 
 ---
 
