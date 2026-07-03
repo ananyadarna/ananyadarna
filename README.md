@@ -98,7 +98,6 @@ A responsive web app to generate dynamic QR codes, track scan analytics, and man
 
 </div>
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/ananyadarna/ananyadarna/output/github-contribution-grid-snake.svg)
 
 ---
 
