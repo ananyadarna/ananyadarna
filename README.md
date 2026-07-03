@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ananya+Darna+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ananya+Darna+%F0%9F%91%8B;Full-[...]
 
 <br/>
 
@@ -78,13 +78,18 @@ Built a real-time logistics intelligence platform using **React + Vite + Node.js
 
 ---
 
-### ♻️ TrashMorph — Smart Upcycling Web App
-> *Turning waste into creative ideas*
+### ♻️ SmartQrdine — Intelligent QR Code Manager
+> *Create, manage, and analyze dynamic QR codes*
 
-A responsive web app that maps waste inputs to creative reuse ideas using JavaScript logic and a clean, mobile-friendly UI.
+A responsive web app to generate dynamic QR codes, track scan analytics, and manage campaigns using React, Node.js, and Firebase.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge)](https://trashmorph.netlify.app/)
-[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/ananyadarna/trashmorph)
+- 🔐 Generate dynamic QR codes with editable redirect targets
+- 📊 Real-time scan analytics (counts, locations, device types)
+- 📁 Campaign management and CSV export for reports
+- 📱 Mobile-friendly UI with easy sharing capabilities
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge)](https://smartqrdine.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/ananyadarna/smartqrdine)
 
 ---
 
