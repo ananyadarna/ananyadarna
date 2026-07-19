@@ -119,7 +119,6 @@ A responsive web app to generate dynamic QR codes, track scan analytics, and man
 <img src="./assets/open.png" width="140" alt="GSSoC 2026 Open Source Track"/>
 <img src="assets\Contributor_NSOC .png" width="140" alt="Tech Contributor - NSOC"/>
 <img src="/assets/NSOC 1st badge.png" width="140" alt="Nexus Spring of Code Badge"/>
-<img src="/assets/ssoc-s5-contributor-ananyadarna.png" width="140" alt="Social Summer of Code Badge"/>
 </div>
 
 ---
